@@ -1,4 +1,4 @@
-### Chase's Blog
+### Chase's Work Blog
 for stuff (c) Chase
 
 ### Credit
