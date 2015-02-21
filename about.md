@@ -16,4 +16,4 @@ I am the the eponymous founder of [Million Concepts](http://www.millionconcepts.
 
 ---
 
-**Correspondence:** `million` . `concepts` @ `gmail` . `com`
+**Correspondence:** `million` [dot] `concepts` [at] `gmail` [dot] `com`
