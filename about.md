@@ -8,4 +8,4 @@ I am the the founder of [Million Concepts](https://www.millionconcepts.com). My 
 
 ---
 
-**Correspondence:** `chase@millionconcepts.com`
+**Email:** `chase@millionconcepts.com`
