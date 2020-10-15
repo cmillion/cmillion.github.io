@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Probability Is Magic
 ---
 
 Ritual magic is the manipulation of symbols (a grammer or _grimoire_) to the purpose of gaining insight (_gnosis_) or influencing the Prior.
